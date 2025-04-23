@@ -13,7 +13,11 @@ To effectively interpret user needs, I try to look at the application as if I am
 
 -How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
-At first, I try to look at the program development as a whole and create a big picture idea of how it should go. Once I have a general understanding of what the program needs to do, then I can go in and fill in the smaller details as we go. Using an Agile method helps with this because it allows the development process to be fluid and adaptable, based on changing needs and requirements. Using the Scrum framework is also a good way to manage a project, because it incorporates strcutures and events that can help increase collaboration and keep everyone aligned on the project goals. Examples of this includes daily standups, sprint planning, and sprint reviews.
+At first, I try to look at the programs development as a whole and create a big picture idea of how it should go. Once I have a general understanding of what the program needs to do, then I can go in and fill in the smaller details as we go. Using an Agile method helps with this because it allows the development process to be fluid and adaptable, based on changing needs and requirements. Using the Scrum framework is also a good way to manage a project, because it incorporates structures and events that can help increase collaboration and keep everyone aligned on the projects goals. Examples of this includes daily standups, sprint planning, and sprint reviews.
+
+-What does it mean to be a good team member in software development?
+
+Being a good team member in a software development environment means to be transparent, communicative, and focused. Being transparent is important because helps build trust, accountability, and keeps everyone aligned on the same goals. Being communicative is important because reduces misunderstandings, saves time, and increases collaboration. Last, but not least, staying focused is important because it improves your problem solving skills, can speed up develpment, and can increase communication.
 
 
 
